@@ -1,0 +1,14 @@
+{
+  "name": "fruition-xyush",
+  "version": "1.0.0",
+  "description": "React Fruition project by Xyush",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-scripts": "4.0.3"
+  }
+}
